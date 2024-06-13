@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Yadav</h1>
+<div align="center"> <img src="https://github.com/NikitaYadav69/NikitaYadav69/blob/main/Banner.png"></div>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align= "right" alt="Coding" width="400" src="https://website-assets-fw.freshworks.com/attachments/cjr989snz00d6exg00j5mo5ud-fs.one-half.png">
 
